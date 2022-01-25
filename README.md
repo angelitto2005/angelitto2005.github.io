@@ -5,7 +5,5 @@
 <a href="/metaplayers/">metaplayers</a><br>
 
 Add this to kodi's file manager sources:
-
 ## https://angelitto2005.github.io
-
 and install the zips from that source.
