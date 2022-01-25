@@ -1,5 +1,4 @@
-## Here you can find my favorite REPOs,
-## and a lot of json PLAYERS
+## My favorite REPOs, and json PLAYERS
 
 <a href="/repo/">repo</a><br>
 <a href="/tmdbplayers/">tmdbplayers</a><br>
