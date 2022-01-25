@@ -1,4 +1,4 @@
-## My favorite REPOs, and json PLAYERS
+## Angelitto's favorite REPOs, and json PLAYERS
 
 <a href="/repo/">repo</a><br>
 <a href="/tmdbplayers/">tmdbplayers</a><br>
