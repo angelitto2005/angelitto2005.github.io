@@ -6,6 +6,7 @@
 
 Add this to kodi's file manager sources:
 
-https://angelitto2005.github.io
+## <b>https://angelitto2005.github.io</b>
+
 
 and install the zips from that source.
