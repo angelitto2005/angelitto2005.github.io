@@ -17,6 +17,9 @@ TheOath -
 Youtube - 
 <a href="repository.yt.testing_unofficial-2.0.0+matrix.1.zip">repository.yt.testing_unofficial-2.0.0+matrix.1.zip</a><br>
 Youtube - 
-<a href="repository.yt.testing_official-2.0.0+matrix.1">repository.yt.testing_official-2.0.0+matrix.1</a><br>
+<a href="repository.yt.testing_official-2.0.0+matrix.1.zip">repository.yt.testing_official-2.0.0+matrix.1.zip</a><br>
+<hr>
+Elementum
+<a href="https://github.com/elgatito/plugin.video.elementum/releases/download/v0.1.86/plugin.video.elementum-0.1.86.zip">plugin.video.elementum-0.1.86</a><br>
 <hr>
 
