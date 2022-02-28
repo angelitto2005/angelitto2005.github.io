@@ -19,10 +19,3 @@ Youtube -
 Youtube - 
 <a href="repository.yt.testing_unofficial-2.0.1 matrix.1.zip">repository.yt.testing_unofficial-2.0.1 matrix.1.zip</a><br>
 <hr>
-Elementum OSMC - 
-<a href="plugin.video.elementum-0.1.86.linux_armv7.zip">plugin.video.elementum-0.1.86.linux_armv7.zip</a><br>
-<hr>
-Elementum Universal
-<a href="https://github.com/elgatito/plugin.video.elementum/releases/download/v0.1.86/plugin.video.elementum-0.1.86.zip">plugin.video.elementum-0.1.86</a><br>
-<hr>
-
