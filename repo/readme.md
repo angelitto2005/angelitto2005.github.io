@@ -1,7 +1,7 @@
 ## My favorite REPOs
 
 Cosmic Skin - 
-<a href="repository.heppen.zip">repository.heppen.zip</a><br>
+<a href="repository.heppen-4.0.2.zip">repository.heppen-4.0.2.zip</a><br>
 TMDbH - 
 <a href="repository.jurialmunkey-2.2.zip">repository.jurialmunkey-2.2.zip</a><br>
 MRSP - 
@@ -17,7 +17,7 @@ TheOath -
 Youtube - 
 <a href="repository.yt.testing_unofficial-2.0.0+matrix.1.zip">repository.yt.testing_unofficial-2.0.0+matrix.1.zip</a><br>
 Youtube - 
-<a href="repository.yt.testing_official-2.0.0+matrix.1.zip">repository.yt.testing_official-2.0.0+matrix.1.zip</a><br>
+<a href="repository.yt.testing_unofficial-2.0.1 matrix.1.zip">repository.yt.testing_unofficial-2.0.1 matrix.1.zip</a><br>
 <hr>
 Elementum
 <a href="https://github.com/elgatito/plugin.video.elementum/releases/download/v0.1.86/plugin.video.elementum-0.1.86.zip">plugin.video.elementum-0.1.86</a><br>
