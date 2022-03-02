@@ -7,7 +7,7 @@ TMDbH -
 MRSP - 
 <a href="repository.sarsaila-1.1.1.zip">repository.sarsaila-1.1.1.zip</a><br>
 Diamond Info Mod - 
-<a href="repository.newdiamond-2.1.zip">repository.newdiamond-2.1.zip</a><br>
+<a href="repository.newdiamond-2.2.zip">repository.newdiamond-2.2.zip</a><br>
 TV Online - 
 <a href="repository.cralin.Kodi_19-1.0.0.zip">repository.cralin.Kodi_19-1.0.0.zip</a><br>
 Digi Online - 
