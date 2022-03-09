@@ -2,6 +2,8 @@
 
 Cosmic Skin - 
 <a href="repository.heppen-4.0.2.zip">repository.heppen-4.0.2.zip</a><br>
+Estuary MOD v2 - 
+a href="repository.kodinerds-7.0.1.2.zip">repository.kodinerds-7.0.1.2.zip</a><br>
 TMDbH - 
 <a href="repository.jurialmunkey-2.2.zip">repository.jurialmunkey-2.2.zip</a><br>
 MRSP - 
