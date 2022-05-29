@@ -16,6 +16,8 @@ Digi Online -
 <a href="repository.moromete.addons.zip">repository.moromete.addons.zip</a><br>
 TheOath - 
 <a href="repository.host505-2.5.zip">repository.host505-2.5.zip</a><br>
+The Promise - 
+<a href="repository.loonaticsasylum-22.5.2.zip">repository.loonaticsasylum-22.5.2.zip</a><br>
 Youtube - 
 <a href="repository.yt.testing_official-2.0.0+matrix.1.zip">repository.yt.testing_official-2.0.0+matrix.1.zip</a><br>
 Youtube - 
