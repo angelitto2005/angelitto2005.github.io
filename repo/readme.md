@@ -28,6 +28,6 @@ The Crew&tvOne11 -
 <a href="repository.thecrew-0.3.4.zip">repository.thecrew-0.3.4.zip</a><br>
 tvOne11 Live - 
 <a href="plugin.video.tvone11-27+matrix.1.zip">plugin.video.tvone11-27+matrix.1.zip</a><br>
-Octopus Repo - 
+LiveStreamsPro - 
 <a href="repository.octopus-0.1.99.zip">repository.octopus-0.1.99.zip</a><br>
 <hr>
