@@ -24,12 +24,14 @@ The Crew&tvOne11 -
 <a href="repository.thecrew-0.3.4.zip">repository.thecrew-0.3.4.zip</a><br>
 LiveStreamsPro&Alvin - 
 <a href="repository.octopus-0.1.99.zip">repository.octopus-0.1.99.zip</a><br>
+IPTV Merge - 
+a href="repository.slyguy-0.0.3.zip">repository.slyguy-0.0.3.zip</a><br>
 Youtube - 
 <a href="repository.yt.testing_official-2.0.0+matrix.1.zip">repository.yt.testing_official-2.0.0+matrix.1.zip</a><br>
 Youtube - 
 <a href="repository.yt.testing_unofficial-2.0.1 matrix.1.zip">repository.yt.testing_unofficial-2.0.1 matrix.1.zip</a><br><br>
 Duff You (Youtube)- 
 <a href="plugin.video.duffyou-0.1.3.zip">plugin.video.duffyou-0.1.3.zip</a><br>
-tvOne11 Live - 
+tvOne11 - 
 <a href="plugin.video.tvone11-27+matrix.1.zip">plugin.video.tvone11-27+matrix.1.zip</a><br>
 <hr>
