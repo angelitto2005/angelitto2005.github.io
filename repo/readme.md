@@ -16,18 +16,20 @@ TV Online -
 <a href="repository.cralin.Kodi_19-1.0.0.zip">repository.cralin.Kodi_19-1.0.0.zip</a><br>
 Digi Online - 
 <a href="repository.moromete.addons.zip">repository.moromete.addons.zip</a><br>
-TheOath - 
-<a href="repository.host505-2.5.zip">repository.host505-2.5.zip</a><br>
-The Promise - 
+The Promise&Elementum - 
 <a href="repository.loonaticsasylum-22.5.2.zip">repository.loonaticsasylum-22.5.2.zip</a><br>
+JewRepo&Scrubs v2 - 
+<a href="repository.jewrepo-1.5.7.zip">repository.jewrepo-1.5.7.zip</a><br>
+The Crew&tvOne11 - 
+<a href="repository.thecrew-0.3.4.zip">repository.thecrew-0.3.4.zip</a><br>
+LiveStreamsPro&Alvin - 
+<a href="repository.octopus-0.1.99.zip">repository.octopus-0.1.99.zip</a><br>
 Youtube - 
 <a href="repository.yt.testing_official-2.0.0+matrix.1.zip">repository.yt.testing_official-2.0.0+matrix.1.zip</a><br>
 Youtube - 
-<a href="repository.yt.testing_unofficial-2.0.1 matrix.1.zip">repository.yt.testing_unofficial-2.0.1 matrix.1.zip</a><br>
-The Crew&tvOne11 - 
-<a href="repository.thecrew-0.3.4.zip">repository.thecrew-0.3.4.zip</a><br>
+<a href="repository.yt.testing_unofficial-2.0.1 matrix.1.zip">repository.yt.testing_unofficial-2.0.1 matrix.1.zip</a><br><br>
+Duff You (Youtube)- 
+<a href="plugin.video.duffyou-0.1.3.zip">plugin.video.duffyou-0.1.3.zip</a><br>
 tvOne11 Live - 
 <a href="plugin.video.tvone11-27+matrix.1.zip">plugin.video.tvone11-27+matrix.1.zip</a><br>
-LiveStreamsPro - 
-<a href="repository.octopus-0.1.99.zip">repository.octopus-0.1.99.zip</a><br>
 <hr>
