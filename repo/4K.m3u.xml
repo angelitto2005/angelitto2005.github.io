@@ -1,0 +1,143 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Yq0whrXY/protv4k.png" group-title="[COLORorange]4K[/COLOR]",PRO TV
+http://premiereblog.info:8080/Radu-Mircea/1234/92
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Yq0whrXY/protv4k.png" group-title="[COLORorange]4K[/COLOR]",PRO TV
+http://premiereblog.info:8080/Rebegea-Rebegea/1234/92
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/h4pBDz0K/protvfhd.png" group-title="[COLORorange]4K[/COLOR]",PRO TV HD
+http://premiereblog.info:8080/Cristi-Constantin/1234/185
+#EXTINF:-1 tvg-id="protv.ro" tvg-name="Pro TV HD" tvg-logo="http://meandyou.ro/logo/pro_tv_hd.png" group-title="-=• Generale •=-",Pro TV HD
+http://cms82.redirectme.net/play/0jdBSjls5DhX7kksf4TF6lyN5Qtrr_X4SZUrTpeO2r6yYYQV_rUn0n1EyXVvfLKVLT6Ml8bs96.KaNepJ5agM2QzY6.1Sm6O52rwJeiP.IbVcA5I8uuNWlcXIPm4cBcfFSI5zMJK5Qj8QfoOkkxz9w--.ts
+#EXTINF:-1 tvg-id="protv.ro" tvg-name="Pro TV HD | hevc" tvg-logo="http://meandyou.ro/logo/pro_tv_hd.png" group-title="-=• Generale •=-",Pro TV HD | hevc
+http://cms82.redirectme.net/play/e9Dqv_nuRITlt8wXF9d4Fx9LwFQSOADj2NRILaClH.HxS89cvBSBSs.8Yqo2KsnKGPTV_MiB4ezX9jOJqaxn.vXfcWCMSyE4Pgh5rR0FeBC0bWC5Fgd4YSlcTfP5tyZS0r9F7guYQn1iEHxH0htY7w--.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gktZ34VK/Antena14k.png" group-title="[COLORorange]4K[/COLOR]",ANTENA 1
+http://premiereblog.info:8080/Radu-Mircea/1234/117
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gktZ34VK/Antena14k.png" group-title="[COLORorange]4K[/COLOR]",ANTENA 1
+http://premiereblog.info:8080/Rebegea-Rebegea/1234/117
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QtD3tcPd/antena1fhd.png" group-title="[COLORorange]4K[/COLOR]",ANTENA 1 HD
+http://premiereblog.info:8080/Cristi-Constantin/1234/89532
+#EXTINF:-1 tvg-id="antena1.ro" tvg-name="Antena 1 HD" tvg-logo="http://meandyou.ro/logo/antena_1_hd.png" group-title="-=• Generale •=-",Antena 1 HD
+http://cms82.redirectme.net/play/F5r6MxY194mzDcq_XIz7u4KveaSU_4SyZpZFf7b4k7f4vLYhxLn_MJJM8XydaRbPsAEzRqeGWK9OJ1_xwmeiywMJ9o2iOe4JrAzUfe618R60nrRbFwQAUi_zH6kFCWHsAVHMVlOWhCJfxuJOMlPuzg--.ts
+#EXTINF:-1 tvg-id="antena1.ro" tvg-name="Antena 1 HD | hevc" tvg-logo="http://meandyou.ro/logo/antena_1_hd.png" group-title="-=• Generale •=-",Antena 1 HD | hevc
+http://cms82.redirectme.net/play/FR46ZPVf8gzPCrOPldvKqFasuaHkcxlCUKNWYi45gDuS1iUreJ._FasejgGsMUiNA9nTFjgeIcuTFVxKsJZoA5nrKeUiaw5fUNM99pg8jdWedP1fcxEtI5PDzLFtTUdsAt9zPFAUsIdyeopV4yXYuA--.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/brCc3WvZ/kanald4k.png" group-title="[COLORorange]4K[/COLOR]",KANAL D
+http://premiereblog.info:8080/Radu-Mircea/1234/197
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/brCc3WvZ/kanald4k.png" group-title="[COLORorange]4K[/COLOR]",KANAL D
+http://premiereblog.info:8080/Rebegea-Rebegea/1234/197
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3tcRwJM/kanaldfhd.png" group-title="[COLORorange]4K[/COLOR]",KANAL D HD
+http://premiereblog.info:8080/Radu-Mircea/1234/275
+#EXTINF:-1 tvg-id="kanald.ro" tvg-name="Kanal D HD" tvg-logo="http://meandyou.ro/logo/kanal_d_hd.png" group-title="-=• Generale •=-",Kanal D HD
+http://cms82.redirectme.net/play/r3kpNPZTVKxtZm7ktTsWzqmkrn2OyRRxEavDH2CpyH81wI3lCg18ZnoU8o7L9qQgvEbAuFbm1bYRNK9shSfdxH_j1CVYfDsIlOV1_t6Ejj8LGzhYJ1PQA5ic3T3LuESlKQy8ZnoKsP6WA3_WyxySYg--.ts
+#EXTINF:-1 tvg-id="kanald.ro" tvg-name="Kanal D HD | hevc" tvg-logo="http://meandyou.ro/logo/kanal_d_hd.png" group-title="-=• Generale •=-",Kanal D HD | hevc
+http://cms82.redirectme.net/play/OG8hl_Ea7R4j7UfCaOQuJ4T8E_VJNbZemCcvi4Qw3XYVVn970cSWglg2vGX2pyHm6waJoz2InrofE4_TbnDhTShxDMe_EQGwoqHpVd6AzrWHVpquUhnbDtJdsqinukr_xOS5I76yMY1e5dOqTkrcGw--.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y90BB470/4k.jpg" group-title="[COLORorange]4K[/COLOR]",DIGI SPORT 1
+http://premiereblog.info:8080/Radu-Mircea/1234/29
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y90BB470/4k.jpg" group-title="[COLORorange]4K[/COLOR]",DIGI SPORT 1
+http://premiereblog.info:8080/Rebegea-Rebegea/1234/29
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/V5yxtDC0/fhd.jpg" group-title="[COLORorange]4K[/COLOR]",Digi Sport 1 HD | hevc
+http://cms82.redirectme.net/play/ZWRHoMVOxsqIUNnNTBGveBnroGxdIJjeScPX8DoctCEGSQ8EJoyukJsK9A92QLcD7ecDK6yWqZqK3sXvzU5vnAiQcWBJuz3JqKMgaZ5kKRFGjoB2K_IjvVIx7tUZMebZiF2Z8COnjQBGg9nRoR.mXA--.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/V5yxtDC0/fhd.jpg" group-title="[COLORorange]4K[/COLOR]",ORANGE SPORT 1 HD
+http://premiereblog.info:8080/Cristi-Constantin/1234/96
+#EXTINF:-1 tvg-id="hbo.ro" tvg-logo="https://i.postimg.cc/V5yxtDC0/fhd.jpg" group-title="[COLORorange]4K[/COLOR]",Orange Sport 1 HD | hevc
+http://cms82.redirectme.net/play/mMEp.LLpeRP0L6XRzzJDXUoEMsjYo67k1Cx4Hvzi5wJNBLVhXoO.Z6mBV._zKKJqv.3G3KQepEpXCh8L92dD9_3ntGmu8t_rx2Csuxk0f9fLax0Q1mSx0i3Qelws6PjQOaUTDezQHb20hBgYNSkjNA--.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/V5yxtDC0/fhd.jpg" group-title="[COLORorange]4K[/COLOR]",ORANGE SPORT 2 HD
+http://premiereblog.info:8080/Cristi-Constantin/1234/97
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y90BB470/4k.jpg" group-title="[COLORorange]4K[/COLOR]",DIGI 4K
+http://premiereblog.info:8080/Radu-Mircea/1234/16417
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y90BB470/4k.jpg" group-title="[COLORorange]4K[/COLOR]",Digi 4K
+http://premiereblog.info:8080/Rebegea-Rebegea/1234/16417
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/V5yxtDC0/fhd.jpg" group-title="[COLORorange]4K[/COLOR]",HBO HD
+http://premiereblog.info:8080/Radu-Mircea/1234/184
+#EXTINF:-1 tvg-id="hbo.ro" tvg-name="HBO HD" tvg-logo="http://meandyou.ro/logo/hbo_hd.png" group-title="-=• Filme •=-",HBO HD
+http://cms82.redirectme.net/play/6.Z3uiXYXBIWTRmzBFxkrEhBpezS.XY99YIiQel8TDR6pqFER3i0TmwagmGKlos0XEM9DITTC6IZERq3gjJMp5cuWr4DYH4aDIXINj4412JF2rHwHxFdc1..H0SP7_S7gRmFuHo8zGZJfup8cxqTQA--.ts
+#EXTINF:-1 tvg-id="hbo.ro" tvg-name="HBO HD | hevc" tvg-logo="http://meandyou.ro/logo/hbo_hd.png" group-title="-=• Filme •=-",HBO HD | hevc
+http://cms82.redirectme.net/play/niCE1njxscIVrc3DLYov5LFUXH7WlmMjug4P07uurGb.UY9Z6WKtTymy.EDQJWBGu89HGbAFRCby3RuOxGA2uENr1CwoNgVMoewHgbXL.XVe9hSlwkZzYxV3m7UkXqaJ_Lmmc.adngyT8vtdbMRdgg--.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/V5yxtDC0/fhd.jpg" group-title="[COLORorange]4K[/COLOR]",HBO
+http://premiereblog.info:8080/Radu-Mircea/1234/60
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/V5yxtDC0/fhd.jpg" group-title="[COLORorange]4K[/COLOR]",HBO 2 HD
+http://premiereblog.info:8080/Radu-Mircea/1234/56
+#EXTINF:-1 tvg-id="hbo2.ro" tvg-name="HBO 2 HD" tvg-logo="http://meandyou.ro/logo/hbo_2_hd.png" group-title="-=• Filme •=-",HBO 2 HD
+http://cms82.redirectme.net/play/aA.qhEGQbVp38NLwy5rVBQT8cKPSB.iwzCBaR8U2KCX3CyCIYDI8.ak9CZKMtJWN_MOs9cf.AOO.9uJct6iUhZpYuz24Cz_Fnun8cD3sNTyuTbfj1v67NoGN09FbOGs_288PlyClguA8_QYjgHjc5A--.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/V5yxtDC0/fhd.jpg" group-title="[COLORorange]4K[/COLOR]",HBO 2
+http://premiereblog.info:8080/Radu-Mircea/1234/57
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/V5yxtDC0/fhd.jpg" group-title="[COLORorange]4K[/COLOR]",HBO 3 HD
+http://premiereblog.info:8080/Radu-Mircea/1234/58
+#EXTINF:-1 tvg-id="hbo3.ro" tvg-name="HBO 3 HD" tvg-logo="http://meandyou.ro/logo/hbo_3_hd.png" group-title="-=• Filme •=-",HBO 3 HD
+http://cms82.redirectme.net/play/7RXuJ2mbRG3N4sPMePVmrupV1IWfq6zt2X6Zd1N0RmrmO1vcZwTnS7l69.5YVKusiMrB06RswFNeJortnj5vmVChS1rHspT4CbUEe1Ad99zPS2C2BoCkq8YiUEiEzHQwRuumWVtZw4r49QNBlpaSdg--.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/V5yxtDC0/fhd.jpg" group-title="[COLORorange]4K[/COLOR]",HBO 3
+http://premiereblog.info:8080/Radu-Mircea/1234/59
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/V5yxtDC0/fhd.jpg" group-title="[COLORorange]4K[/COLOR]",Film NOW HD
+http://premiereblog.info:8080/Radu-Mircea/1234/52
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/V5yxtDC0/fhd.jpg" group-title="[COLORorange]4K[/COLOR]",Film NOW
+http://premiereblog.info:8080/Radu-Mircea/1234/51
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y90BB470/4k.jpg" group-title="[COLORorange]4K[/COLOR]",FluxRO  4K
+http://premiereblog.info:8080/Radu-Mircea/1234/111608
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y90BB470/4k.jpg" group-title="[COLORorange]4K[/COLOR]",IMPACT Filme 4K
+http://premiereblog.info:8080/Radu-Mircea/1234/62197
+
+#EXTINF:-1 tvg-logo="http://premiereblog.info:8080/images/20590cac6bdbb1d87c1d1587da998b23.png" group-title="[COLORorange]4K[/COLOR]",HBO Actiune
+http://premiereblog.info:8080/Cristi-Constantin/1234/62105
+#EXTINF:-1 tvg-logo="http://premiereblog.info:8080/images/20590cac6bdbb1d87c1d1587da998b23.png" group-title="[COLORorange]4K[/COLOR]",HBO Comedie
+http://premiereblog.info:8080/Cristi-Constantin/1234/62106
+#EXTINF:-1 tvg-logo="http://premiereblog.info:8080/images/20590cac6bdbb1d87c1d1587da998b23.png" group-title="[COLORorange]4K[/COLOR]",HBO Aventura
+http://premiereblog.info:8080/Cristi-Constantin/1234/62112
+#EXTINF:-1 tvg-logo="http://premiereblog.info:8080/images/20590cac6bdbb1d87c1d1587da998b23.png" group-title="[COLORorange]4K[/COLOR]",HBO Horror
+http://premiereblog.info:8080/Cristi-Constantin/1234/62107
+
+#EXTINF:-1 tvg-logo="http://premiereblog.info:8080/images/2c0898822ab3baf7f93bea86648adb26.png" group-title="[COLORorange]4K[/COLOR]",GOLD Manele
+http://premiereblog.info:8080/Cristi-Constantin/1234/111273
+#EXTINF:-1 tvg-logo="http://premiereblog.info:8080/images/4aed49ebcdcd138ff2c660a11a4fbf62.png" group-title="[COLORorange]4K[/COLOR]",PRO Manele
+http://premiereblog.info:8080/Cristi-Constantin/1234/62072
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/V5yxtDC0/fhd.jpg" group-title="[COLORorange]4K[/COLOR]",FluxRO MANELE
+http://premiereblog.info:8080/Cristi-Constantin/1234/111673
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/V5yxtDC0/fhd.jpg" group-title="[COLORorange]4K[/COLOR]",FLY MANELE
+http://premiereblog.info:8080/Cristi-Constantin/1234/111674
+#EXTINF:-1 tvg-logo="http://premiereblog.info:8080/images/2c0898822ab3baf7f93bea86648adb26.png" group-title="[COLORorange]4K[/COLOR]",GOLD Carmen de la Salciua
+http://premiereblog.info:8080/Cristi-Constantin/1234/111274
+#EXTINF:-1 tvg-logo="http://premiereblog.info:8080/images/4aed49ebcdcd138ff2c660a11a4fbf62.png" group-title="[COLORorange]4K[/COLOR]",PRO Carmen De La Salciua
+http://premiereblog.info:8080/Cristi-Constantin/1234/32218
+#EXTINF:-1 tvg-logo="http://premiereblog.info:8080/images/2c0898822ab3baf7f93bea86648adb26.png" group-title="[COLORorange]4K[/COLOR]",GOLD Vladuta Lupau
+http://premiereblog.info:8080/Cristi-Constantin/1234/111275
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y90BB470/4k.jpg",Premium Manele 4k
+http://better1.info:8000/play/live.php?mac=00:1a:79:56:aa:ec&stream=19979&extension=ts&play_token=viorel
+
+#EXTINF:-1 tvg-id="" tvg-name="CRESTIN TV PREDICI" tvg-logo="https://i.postimg.cc/V5yxtDC0/fhd.jpg" group-title="[COLORorange]4K[/COLOR]",CRESTIN TV PREDICI
+http://premiereblog.info:8080/Cristi-Constantin/1234/111589
+#EXTINF:-1 tvg-id="" tvg-name="CRESTIN TV MUZICA" tvg-logo="https://i.postimg.cc/V5yxtDC0/fhd.jpg" group-title="[COLORorange]4K[/COLOR]",CRESTIN TV MUZICA
+http://premiereblog.info:8080/Cristi-Constantin/1234/111670
+
+#EXTINF:-1 tvg-id="digi4k.ro" tvg-name="DIGI 4K | hevc" tvg-logo="http://meandyou.ro/logo/digi_4k.png" group-title="-=• UHD - 50FPS - 4K •=-",DIGI 4K | hevc
+http://cms82.redirectme.net/play/0Cc5j4ssHqAjJ0q3GOSjIKpkXMktm2T88Z4C9DvNULcTDZ2HDyJD.NPSPyPVb9F8yocrHVwycNNKwYOZff.yzwIHr27KQfYU3U26CRqEmDPXx3l9T02x2KXzAIknqXcZvWVQGlL4vNlNK2coxchrUQ--.ts
+#EXTINF:-1 tvg-id="eurosport4k.ro" tvg-name="EuroSport 4K | hevc" tvg-logo="http://meandyou.ro/logo/eurosport_4k.png" group-title="-=• UHD - 50FPS - 4K •=-",EuroSport 4K | hevc
+http://cms82.redirectme.net/play/i29kdZX1z5DoAHShnqATJeBrIFa9FbVJidmXV29hji0OyUWATFlkjIlZxKoYKCKTqTCa_00rOHmU3vfDziuRUW1M8UnW5BysAZqb_4iiCAl67F33JmP29tk65z9asYl0jNkv.BLSZ4Bqd5o.tX1FIQ--.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y90BB470/4k.jpg" group-title="-=• UHD - 50FPS - 4K •=-",Prima 4K | hevc
+http://cms82.redirectme.net/play/1UEOKk25k2pMby0YUDdRIv9daN_DeG1MmC8wau8TNNJ0XzvSSSZvtuH_aiDfh7qizpfIJLjOCuyyQlGK_VKK5Nw73iXqIy9YFlOP5OMr0BOEFmNxsAFIj3cb3epRlm6pLT.yai.9bp2ExiL3TRlUZw--.ts
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature 4K | hevc" tvg-logo="http://meandyou.ro/logo/love_4k.png" group-title="-=• UHD - 50FPS - 4K •=-",Love Nature 4K | hevc
+http://cms82.redirectme.net/play/UmAjrswS.HrCQ3tyUguJPMj6wLN2oV23CyGWN37nj1vXNlyWNzxR6OZf.iD5qtLY0zSLUOIF2NHgWRa_TpPwFRCluNP39OjE9gnypmbSsP1WpBUTZeG.F4BrnBensEVldHHtgciRefmzWessxCXCyQ--.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y90BB470/4k.jpg" group-title="-=• UHD - 50FPS - 4K •=-",Travel Mix 4K | hevc
+http://cms82.redirectme.net/play/iS8joz6IUEVhlJRbXHzTeAveCAzHvml2DFHAQYL1NqLnkxYvRvhuVXWwtlKJt9fKq4KhqK2X6TvuJHM8Bxvc3txdlrhmY2SFWwhGWCEf8yfEHEV_wzUEVh07Sqq5KGhMgZb7LeOaTjWKZXL7n2ZMOw--.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y90BB470/4k.jpg" group-title="-=• UHD - 50FPS - 4K •=-",NASA 4K | hevc
+http://cms82.redirectme.net/play/euMmE4MxNS0qhQQhwk8x0Du16EO8GYNO_j_EqWRLdJq6YVCK.JGjnizFi57DeyHJXJjYLUVdbnP0BNQKaXTvf7DZFYuCkYuh4Dtl9.eJZTsLW7Z0q1nbkVcbYVyhI53NSJ5V9YIoqOmz0_xI2EHTcA--.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y90BB470/4k.jpg" group-title="-=• UHD - 50FPS - 4K •=-",4K HERiTAGE | hevc
+http://cms82.redirectme.net/play/_Dp8y1kxEm2k4UGudtSHFzhKfH6Kmvptb7Wd98SBqNuecA8CcG8biOXe3YqwZgzfpa3s3LpXmGowTIgRkDRqQuKJeNVIR3AhwuUJygaYbncUZNDZiy1VrzYmRFuXh2TAjS6qUQQ4mJnWeJbT5.E3ng--.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y90BB470/4k.jpg" group-title="-=• UHD - 50FPS - 4K •=-",OneBY UHD | hevc
+http://cms82.redirectme.net/play/1rMIvJ4UoQA5fvwBw5I_kr_4YLjNnww91I7k.G2qvVqfS21yd4ch6O0GYxR0nNAbtPgFBiYucuVWBewKGEd.Q8eQa22v.r1G1OGpo7AcmQIachjq35cMmjrA4otnnHaPtS3bJqQzKh6DdUCtnu2Q9g--.ts
+#EXTINF:-1 tvg-id="" tvg-name="DX Marvel Vs DC | hevc" tvg-logo="http://meandyou.ro/logo/dx_media.png" group-title="-=• UHD - 50FPS - 4K •=-",DX Marvel Vs DC | hevc
+http://cms82.redirectme.net/play/tgdV65Hnp5x2iDQbWfuyXRqR7_XgnuedWNDKqmaCVfTuQRhvzPbLs6JVREggg.RyHaGseFGutQHiMQCY8kK0aNWIxBRy0z3WyRGf.2GoNr38AfMhoB05TB0O2XgCxk.9Kwxlz4VZflEl.eH3J4Ovzw--.ts
+#EXTINF:-1 tvg-id="" tvg-name="DX Marvel Vs DC - 2 HD" tvg-logo="http://meandyou.ro/logo/dx_media.png" group-title="-=• Cinemagia HD •=-",DX Marvel Vs DC - 2 HD
+http://cms82.redirectme.net/play/1qqobCql1_LPfDA3Vo9r5._okEIDum3k7Ut1CJOGSACOej2WTnzPNRAAxp4J9jhBiqRRIYE.dYKOn8fwmHnIiMaek_yZzCgpBKJXkcwZt4NrWiUL15d8oBBlFzsd9XT..nkN6PN6z6bQbuZam6kiXg--.ts
+#EXTINF:-1 tvg-id="" tvg-name="NEO TV - Marvel Vs DC HD" tvg-logo="http://meandyou.ro/logo/neo_media.png" group-title="-=• Cinemagia HD •=-",NEO TV - Marvel Vs DC HD
+http://cms82.redirectme.net/play/DAp0D_LMIGPKeRg.PPummH0FDNAxSj5wtqtmKDKdcl3fTwmiiHbSChUuuAy5nTcDUeoMDPCRbYHr40LyQy70rGM84jPS.Mal8zTqT4K3xvnJQCzYTbfdVk7BLIapMfJcXGJGgui6.HHI7DClfKdV0g--.ts
+#EXTINF:-1 tvg-id="" tvg-name="NEO TV 4K | hevc" tvg-logo="http://meandyou.ro/logo/neo_media.png" group-title="-=• UHD - 50FPS - 4K •=-",NEO TV 4K | hevc
+http://cms82.redirectme.net/play/NrT3d.G3THgmmMQLDK90VB4hivBpnRe7sIKjezmmbjLtNB3VDGXYOBvnljyPI.YcO6_Usz2UI2QxI30f5hFCSy1kaDZ3gyqGnWuKQ8rXIVDjXAcv1bgepfcXOdAS2MwUDtMKhfyT6j_6xq71VOQnbg--.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zokko 4K | hevc" tvg-logo="http://meandyou.ro/logo/x-ott_info.png" group-title="-=• UHD - 50FPS - 4K •=-",Zokko 4K | hevc
+http://cms82.redirectme.net/play/8994z1Bf0W4CJwgyY6T6OkrLz408mXdXC6Mg5uuHu62kQ8QFsoCA0Wpor5KNiApNA1xKA6X83wgeI6zRX5xAw9Gs2wKpPpuX7tMRDZHLpAsXOsT0JvqE8ThgivL1flxoNjjvN9NzZfETTKYzA4B4HQ--.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zokko Movies 4K | hevc" tvg-logo="http://meandyou.ro/logo/x-ott_info.png" group-title="-=• UHD - 50FPS - 4K •=-",Zokko Movies 4K | hevc
+http://cms82.redirectme.net/play/din5L_9ty9bAoSZuv9QbrxGga9I1vGPjbgSam8TpMzxaCURJeri_7IHidLP9trAolByAQ72wEI4ELex9VJnSKncH35dyXquvwM9AEDr0NhuCIWYu5f1r625VmuvNT.yPV8L2t8z0BuOMwEdlG7xIpQ--.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zokko 4K Two | hevc" tvg-logo="http://meandyou.ro/logo/x-ott_info.png" group-title="-=• UHD - 50FPS - 4K •=-",Zokko 4K Two | hevc
+http://cms82.redirectme.net/play/bnE909NqXJ_WbUb2SvzNftdXTQiH6T4TkeSjWR0HJW0esQxGLqCAiudTbS_1OydU.OywnNvaBNwbnNFnTQBGcSEN0cQuuQ6.utSliSBAIbqeUxwC0mkBuGBdxfu_4YOSIX1b2eauh_DTbvC9xU5p4g--.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zokko 4K Three | hevc" tvg-logo="http://meandyou.ro/logo/x-ott_info.png" group-title="-=• UHD - 50FPS - 4K •=-",Zokko 4K Three | hevc
+http://cms82.redirectme.net/play/.NCu_I7kTFvXf7bLoyi_fdb5oR0dyfeJkpK0d_PBKsKohITXViFZQxuAmNA3z6mSmwoZXvCvxu_X9YxWLoiZvFLXfkBLEfRlFHpUzySy75Nsmy7LA4abUdPbjiajzF.6oalPPUhsLK.zyegEVscLoQ--.ts
+#EXTINF:-1 tvg-id="" tvg-name="Magura 4K | hevc" tvg-logo="http://meandyou.ro/logo/x-ott_info.png" group-title="-=• UHD - 50FPS - 4K •=-",Magura 4K | hevc
+http://cms82.redirectme.net/play/dHNgtvjI3LSajfcFMlPFtMHa.jnSuoDcvm5fozvmA.r.Dh3TfHSP8gGGLKIGptQlthF0azHOZlq8ivWVHVsQ1ccwPkbCfJguP5e2wcmFNO3EhR.UoBBIwsebWO_gYMWuMOONy9dKVqvLzwC_9je0Zw--.ts
+#EXTINF:-1 tvg-id="" tvg-name="ProXtech 4K | hevc" tvg-logo="http://meandyou.ro/logo/x-ott_info.png" group-title="-=• UHD - 50FPS - 4K •=-",ProXtech 4K | hevc
+http://cms82.redirectme.net/play/D.l6aioMqqyzxgO3YXsMIS.9RK.RcbyigEJaOxd99E6nBF8EZCf5GP9BkwFQmiaPbZvq3cZ7ZQGEamkkF1TO5N3MgXVnOFwFT9nbiX62O4KxtfhfLjWB7qXqvgAmNnCYY599K37UL7fWJsyGpJxhHg--.ts
