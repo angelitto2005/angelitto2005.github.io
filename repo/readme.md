@@ -45,3 +45,8 @@ a4kSubtitles Nexus -
 XC MAC M3U - 
 <a href="plugin.video.macvod-v1.96.zip">plugin.video.macvod-v1.96.zip</a><br>
 <hr>
+Youtube Kodi 19
+<a href="plugin.video.youtube-6.8.26.alpha5.zip">plugin.video.youtube-6.8.26.alpha5.zip</a><br>
+Youtube Kodi 20
+<a href="plugin.video.youtube-7.0.2.alpha7.zip">plugin.video.youtube-7.0.2.alpha7.zip</a><br>
+<hr>
