@@ -43,6 +43,10 @@ a4kSubtitles Nexus -
 XC MAC M3U - 
 <a href="plugin.video.macvod-v1.96.zip">plugin.video.macvod-v1.96.zip</a><br>
 <hr>
+Elementum - 
+<a href="plugin.video.elementum-0.1.87.zip">plugin.video.elementum-0.1.87.zip</a><br>
+Burst - 
+<a href="script.elementum.burst-0.0.74.zip">script.elementum.burst-0.0.74.zip</a><br>
 Youtube Kodi 20
 <a href="plugin.video.youtube-7.0.2.alpha7.zip">plugin.video.youtube-7.0.2.alpha7.zip</a><br>
 <hr>
