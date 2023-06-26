@@ -4,12 +4,12 @@ Bee-Queen -
 <a href="repository.al8ina.zip">repository.al8ina.zip</a><br>
 Cosmic Skin - 
 <a href="repository.heppen-4.0.2.zip">repository.heppen-4.0.2.zip</a><br>
-Estuary MOD v2 - 
-<a href="repository.kodinerds-7.0.1.2.zip">repository.kodinerds-7.0.1.2.zip</a><br>
+Estuary MOD v2&Playlist Loader - 
+<a href="repository.kodinerds-7.0.1.4.zip">repository.kodinerds-7.0.1.4.zip</a><br>
 GTV Skin - 
 <a href="repository.roidy-matrix-0.0.1.zip">repository.roidy-matrix-0.0.1.zip</a><br>
 TMDbH - 
-<a href="repository.jurialmunkey-2.2.zip">repository.jurialmunkey-2.2.zip</a><br>
+<a href="repository.jurialmunkey-3.3.zip">repository.jurialmunkey-3.3.zip</a><br>
 MRSP - 
 <a href="repository.sarsaila-1.1.1.zip">repository.sarsaila-1.1.1.zip</a><br>
 Diamond Info Mod - 
@@ -29,7 +29,7 @@ LiveStreamsPro&Alvin -
 Live Streams Pro -
 <a href="repository.ttmedia-2.4.6.zip">repository.ttmedia-2.4.6.zip</a><br>
 IPTV Merge - 
-<a href="repository.slyguy-0.0.3.zip">repository.slyguy-0.0.3.zip</a><br>
+<a href="repository.slyguy-0.0.8.zip">repository.slyguy-0.0.8.zip</a><br>
 Youtube - 
 <a href="repository.yt.testing_official-2.0.0+matrix.1.zip">repository.yt.testing_official-2.0.0+matrix.1.zip</a><br>
 Youtube - 
@@ -38,15 +38,11 @@ Duff You (Youtube)-
 <a href="plugin.video.duffyou-0.1.3.zip">plugin.video.duffyou-0.1.3.zip</a><br>
 tvOne11 - 
 <a href="plugin.video.tvone11-27+matrix.1.zip">plugin.video.tvone11-27+matrix.1.zip</a><br>
-a4kSubtitles Matrix - 
-<a href="a4kSubtitles-repository-Matrix.zip">a4kSubtitles-repository-Matrix.zip</a><br>
 a4kSubtitles Nexus - 
 <a href="repository.hooty-1.0-a4kSubtitles-repository-Nexus.zip">repository.hooty-1.0-a4kSubtitles-repository-Nexus.zip</a><br>
 XC MAC M3U - 
 <a href="plugin.video.macvod-v1.96.zip">plugin.video.macvod-v1.96.zip</a><br>
 <hr>
-Youtube Kodi 19
-<a href="plugin.video.youtube-6.8.26.alpha5.zip">plugin.video.youtube-6.8.26.alpha5.zip</a><br>
 Youtube Kodi 20
 <a href="plugin.video.youtube-7.0.2.alpha7.zip">plugin.video.youtube-7.0.2.alpha7.zip</a><br>
 <hr>
