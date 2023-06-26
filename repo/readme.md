@@ -44,7 +44,7 @@ XC MAC M3U -
 <a href="plugin.video.macvod-v1.96.zip">plugin.video.macvod-v1.96.zip</a><br>
 <hr>
 Elementum - 
-<a href="plugin.video.elementum-0.1.87.zip">plugin.video.elementum-0.1.87.zip</a><br>
+<a href="https://github.com/elgatito/plugin.video.elementum/releases/download/v0.1.87/plugin.video.elementum-0.1.87.zip">plugin.video.elementum-0.1.87.zip</a><br>
 Burst - 
 <a href="script.elementum.burst-0.0.74.zip">script.elementum.burst-0.0.74.zip</a><br>
 Youtube Kodi 20
