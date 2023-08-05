@@ -44,11 +44,11 @@ XC MAC M3U -
 <a href="plugin.video.macvod-v1.96.zip">plugin.video.macvod-v1.96.zip</a><br>
 <hr>
 Elementum linux arm64 - 
-<a href="plugin.video.elementum-0.1.91.linux_arm64.zip">plugin.video.elementum-0.1.91.linux_arm64.zip</a><br>
+<a href="plugin.video.elementum-0.1.96.linux_arm64.zip">plugin.video.elementum-0.1.96.linux_arm64.zip</a><br>
 Elementum linux armv7 - 
-<a href="plugin.video.elementum-0.1.92.linux_armv7.zip">plugin.video.elementum-0.1.92.linux_armv7.zip</a><br>
+<a href="plugin.video.elementum-0.1.96.linux_armv7.zip">plugin.video.elementum-0.1.96.linux_armv7.zip</a><br>
 Burst - 
-<a href="script.elementum.burst-0.0.74.zip">script.elementum.burst-0.0.74.zip</a><br>
+<a href="script.elementum.burst-0.0.77.zip">script.elementum.burst-0.0.77.zip</a><br>
 Youtube Kodi 20
 <a href="plugin.video.youtube-7.0.2.alpha7.zip">plugin.video.youtube-7.0.2.alpha7.zip</a><br>
 <hr>
