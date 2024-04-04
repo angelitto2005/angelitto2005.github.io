@@ -50,5 +50,5 @@ Elementum linux armv7 -
 Burst - 
 <a href="script.elementum.burst-0.0.82.zip">script.elementum.burst-0.0.82.zip</a><br>
 Youtube Kodi 20
-<a href="plugin.video.youtube-7.0.5+beta.4.zip">plugin.video.youtube-7.0.5+beta.4.zip</a><br>
+<a href="plugin.video.youtube-7.0.5.zip">plugin.video.youtube-7.0.5.zip</a><br>
 <hr>
