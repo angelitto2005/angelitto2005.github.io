@@ -2,6 +2,8 @@
 
 Bee-Queen - 
 <a href="repository.al8ina.zip">repository.al8ina.zip</a><br>
+FENtastic & Nimbus - 
+<a href="repository.ivarbrandt.test-1.0.1.zip">repository.ivarbrandt.test-1.0.1.zip</a><br>
 Cosmic Skin - 
 <a href="repository.heppen-4.0.2.zip">repository.heppen-4.0.2.zip</a><br>
 Estuary MOD v2&Playlist Loader - 
