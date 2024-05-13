@@ -57,4 +57,6 @@ Youtube Kodi 18 (leia)
 <a href="plugin.video.youtube-7.0.7+beta.1.leia.1.zip">plugin.video.youtube-7.0.7+beta.1.leia.1.zip</a><br>
 Resolveurl - 
 <a href="script.module.resolveurl-5.1.134.zip">script.module.resolveurl-5.1.134.zip</a><br>
+Chro - 
+<a href="plugin.video.chro.zip">plugin.video.chro.zip</a><br>
 <hr>
