@@ -33,9 +33,9 @@ Live Streams Pro -
 IPTV Merge - 
 <a href="repository.slyguy-0.0.9.zip">repository.slyguy-0.0.9.zip</a><br>
 Youtube - 
-<a href="repository.yt.testing_official-2.0.5.zip">repository.yt.testing_official-2.0.5.zip</a><br>
+<a href="repository.yt.testing_official-2.0.7.zip">repository.yt.testing_official-2.0.7.zip</a><br>
 Youtube - 
-<a href="repository.yt.testing_unofficial-2.0.5.zip">repository.yt.testing_unofficial-2.0.5.zip</a><br>
+<a href="repository.yt.testing_unofficial-2.0.7.zip">repository.yt.testing_unofficial-2.0.7.zip</a><br>
 Duff You (Youtube)- 
 <a href="plugin.video.duffyou-0.2.1.zip">plugin.video.duffyou-0.2.1.zip</a><br>
 tvOne11 - 
