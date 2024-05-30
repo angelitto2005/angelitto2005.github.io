@@ -59,4 +59,6 @@ Resolveurl -
 <a href="script.module.resolveurl-5.1.134.zip">script.module.resolveurl-5.1.134.zip</a><br>
 Chro - 
 <a href="plugin.video.chro.zip">plugin.video.chro.zip</a><br>
+Seren - 
+<a href="repository.nixgates-2.2.0.zip">repository.nixgates-2.2.0.zip</a><br>
 <hr>
